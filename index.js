@@ -18,7 +18,7 @@ function sayHiToGrandma(String) {
   if String === uppercase {
   return "I can't hear you!"
   } else if {
-    return 
+    return "YES INDEED!"
   } else {
     
   }
