@@ -20,6 +20,6 @@ function sayHiToGrandma(String) {
   } else if {
     return "YES INDEED!"
   } else {
-    
+    return "I love you, too."
   }
 }
